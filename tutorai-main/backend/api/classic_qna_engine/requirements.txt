@@ -1,0 +1,7 @@
+requests
+numpy
+nltk
+compound-split
+HanTa
+flask-cors
+protobuf
